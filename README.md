@@ -1,2 +1,2 @@
 # Trending
-Projeto de análise de dados dos trendings topics do aplicativo "X"
+Projeto de análise de dados dos trendings topics do aplicativo Youtube
